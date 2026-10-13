@@ -1,0 +1,1 @@
+https://github.com/nikaxzzl/Computer_Networks/blob/main/independent/sm.md
